@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wrlSz191E+uZ5MvwQNIKPRO0LK5FIS1MBp31sREVpEoyYuWhUM73cCeE+BOrr6P7WTBD7h06tLTUELPLdu58w==",
+  "success": true,
+  "projectFilePath": "C:\\_git\\CQRS2\\Solution1\\NSE.Identidade.API\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.0\\microsoft.aspnetcore.mvc.razor.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.32\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.32.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.codeanalysis.common\\3.7.0\\microsoft.codeanalysis.common.3.7.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.7.0\\microsoft.codeanalysis.csharp.3.7.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.0\\microsoft.codeanalysis.razor.5.0.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.25\\microsoft.extensions.dependencymodel.3.1.25.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 3.1.32 depends on Microsoft.AspNetCore.Mvc.Razor.Extensions (>= 3.1.32) but Microsoft.AspNetCore.Mvc.Razor.Extensions 3.1.32 was not found. An approximate best match of Microsoft.AspNetCore.Mvc.Razor.Extensions 5.0.0 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 3.1.32 depends on Microsoft.CodeAnalysis.Razor (>= 3.1.32) but Microsoft.CodeAnalysis.Razor 3.1.32 was not found. An approximate best match of Microsoft.CodeAnalysis.Razor 5.0.0 was resolved.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
