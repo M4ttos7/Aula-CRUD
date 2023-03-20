@@ -351,3 +351,11 @@ C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\netcore
 C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\netcoreapp3.1\NSE.Cliente.API.dll
 C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\netcoreapp3.1\NSE.Cliente.API.pdb
 C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\netcoreapp3.1\NSE.Cliente.API.genruntimeconfig.cache
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_git\CQRS4\NerdStoreEnterprise\src\services\NSE.Cliente.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
