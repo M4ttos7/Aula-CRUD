@@ -30,17 +30,17 @@ namespace NSE.Catalogo.API.Data.Repository
 
         public void Adicionar(Produto produto)
         {
-            throw new NotImplementedException();
+            _context.Produtos.Add(produto);
         }
 
         public void Atualizar(Produto produto)
         {
-            throw new NotImplementedException();
+            _context?.Produtos.Update(produto);
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _context?.Dispose();
         }
     }
 }
