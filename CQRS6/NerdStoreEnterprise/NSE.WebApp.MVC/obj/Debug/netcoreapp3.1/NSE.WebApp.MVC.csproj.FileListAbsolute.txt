@@ -351,3 +351,5 @@ C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\staticw
 C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
 C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Login.cshtml.g.cs
+C:\_git\CQRS6\NerdStoreEnterprise\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Registro.cshtml.g.cs
