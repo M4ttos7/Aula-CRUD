@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "is1z8609PZ7uGd3VaR14EXT114xuYwN0DEuFD205SjgFWs1vc3Q39mKwTwtjKBrvPp8jC7/gXSdr3nMxCxYjDw==",
+  "success": true,
+  "projectFilePath": "C:\\_git\\CQRS6\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
